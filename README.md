@@ -1,1 +1,6 @@
-# chengeer
+- 👋 **Hi, I’m @Chengeer-CaseWare**
+- 👀 I’m interested in networking & meeting awesome programmers 
+- 🌱 I’m currently learning the world of IT 
+- 💞️ I’m looking to collaborate on helping you to join CaseWare
+- 📫 How to reach me: chengeer.lee@caseware.com 
+- LinkedIn: https://www.linkedin.com/in/chengeer/
